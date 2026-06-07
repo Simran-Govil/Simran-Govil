@@ -1,6 +1,6 @@
 # Hi, I'm Simran Govil 👋
 
-### Financial Analyst | Business Intelligence Enthusiast | M.Com Graduate
+### Financial Analyst | Business Intelligence Enthusiast | M.Com Graduate 
 
 I'm passionate about using data and financial insights to support better business decisions. My interests lie at the intersection of Finance, Business Intelligence, and Data Analytics, where I enjoy transforming raw data into meaningful insights through analysis, dashboards, and reporting.
 
@@ -63,7 +63,7 @@ I have experience in financial statement analysis, data validation, quality audi
 * Developed KPI tracking for Revenue, Gross Profit, Net Profit, Margin %, and Growth %.
 * Applied data cleaning, validation, and visualization techniques.
 
-### Solar Power Plant Feasibility Analysis
+### Solar Power Plant Feasibility Analysis (Ongoing)
 
 * Conducted project feasibility assessment using financial and operational assumptions.
 * Evaluated project viability through investment and profitability analysis.
