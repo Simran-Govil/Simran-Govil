@@ -1,105 +1,90 @@
-# Hi, I'm Simran Govil 👋
+# Simran Govil
+### Financial Analyst | FP&A | Financial Modeling | Financial Reporting
 
-### Financial Analyst | Business Intelligence Enthusiast | M.Com Graduate 
+M.Com graduate and UGC NET-qualified Commerce professional transitioning into Financial Analysis and Financial Planning & Analysis (FP&A). Currently working as a Quality Analyst at IndiaMART InterMESH Ltd, with experience in data validation, quality auditing, process compliance, and accuracy-focused review.
 
-I'm passionate about using data and financial insights to support better business decisions. My interests lie at the intersection of Finance, Business Intelligence, and Data Analytics, where I enjoy transforming raw data into meaningful insights through analysis, dashboards, and reporting.
+Building hands-on expertise in financial statement analysis, financial modeling, KPI reporting, investment evaluation, and business intelligence through practical projects using Microsoft Excel and Power BI.
 
-I have experience in financial statement analysis, data validation, quality auditing, dashboard development, and business feasibility evaluation. Through projects, certifications, and industry job simulations, I continue to build practical skills in financial analysis and data-driven problem solving.
+## Core Skills
 
----
+**Financial Analysis**
+- Financial Statement Analysis and Ratio Analysis
+- Profitability, Liquidity, Efficiency, and Solvency Analysis
+- Financial Modeling and Investment Evaluation
+- NPV, IRR, Payback Period, and WACC
+- Financial Performance and KPI Analysis
 
-## 🚀 Currently Learning
+**Data Analytics & Reporting**
+- Microsoft Excel: Pivot Tables, XLOOKUP, VLOOKUP, IF, SUMIF, Data Cleaning and Validation
+- Power BI: Interactive Dashboards, KPI Cards, Trend Analysis, and Data Visualization
+- SQL: Fundamentals
+- Google Sheets and Web ERP
 
-* Financial Analysis & Valuation
-* Financial Modeling
-* Microsoft Excel
-* Power BI
-* SQL
-* Python for Finance
-* Business Intelligence & Data Analytics
+**Business & Professional Skills**
+- Data Quality Assurance and Quality Control
+- Process Compliance and Reporting Accuracy
+- Business Research and Analytical Problem-Solving
 
----
+## Featured Projects
 
-## 🛠️ Skills
+### 1. Financial Statement Analysis: TCS vs Infosys
+**Tools:** Microsoft Excel, Financial Statement Analysis, Ratio Analysis
 
-### Finance
+Comparative analysis of TCS and Infosys across FY2023–FY2025, evaluating profitability, liquidity, operational efficiency, and solvency through 12 financial ratios.
 
-* Financial Statement Analysis
-* Ratio Analysis
-* Financial Performance Evaluation
-* Business Feasibility Analysis
-* Financial Reporting
+[View Project on GitHub](https://github.com/Simran-Govil/Financial-Statement-Analysis-TCS-vs-Infosys)
 
-### Data Analytics
+### 2. Financial Performance Dashboard
+**Tools:** Microsoft Excel, Power BI, KPI Analysis, Data Visualization
 
-* Microsoft Excel
-* Power BI
-* SQL
-* Data Cleaning & Validation
-* Dashboard Development
-* Data Visualization
+Financial performance dashboard designed to analyse key performance indicators, monitor revenue and profitability trends, and communicate business performance through interactive visualisations.
 
-### Professional Skills
+[View Project on GitHub](https://github.com/Simran-Govil/Financial-Performance-Dashboard)
 
-* Analytical Thinking
-* Problem Solving
-* Business Research
-* Quality Auditing
-* Stakeholder Communication
+### 3. Solar Power Plant Feasibility Analysis
+**Tools:** Microsoft Excel, Financial Modeling, Scenario Analysis
 
----
+- Developing a 10-year financial model for a proposed 5 MW solar power plant in Sicily, Italy.
+- Evaluating project viability through capital expenditure assumptions, financing structure, and projected cash flows.
+- Applying base, optimistic, and stress scenarios to assess NPV, IRR, payback period, and investment sensitivity.
 
-## 📊 Projects
+*Project in progress.*
 
-### Financial Statement Analysis: TCS vs Infosys
+## Professional Experience
 
-* Performed comparative financial analysis using profitability, liquidity, efficiency, and solvency ratios.
-* Evaluated financial performance trends and business health over multiple years.
-* Presented findings through structured financial reporting.
+**Quality Analyst | IndiaMART InterMESH Ltd**
+*June 2025 – Present*
 
-### Financial Performance Dashboard
+- Audit approximately 20 product catalogs per day for data accuracy, categorization, image and URL validity, and compliance with standard operating procedures.
+- Validate product information and review HSN and GST-related details against applicable quality requirements.
+- Identify data discrepancies and maintain quality standards through structured auditing and verification.
 
-* Built an interactive dashboard using Excel and Power BI.
-* Developed KPI tracking for Revenue, Gross Profit, Net Profit, Margin %, and Growth %.
-* Applied data cleaning, validation, and visualization techniques.
+**Project Consultant Intern | GiveIndia**
+*February 2025 – March 2025*
 
-### Solar Power Plant Feasibility Analysis (Ongoing)
+- Verified data for 280+ NGOs using spreadsheets, supporting data accuracy and validation.
 
-* Conducted project feasibility assessment using financial and operational assumptions.
-* Evaluated project viability through investment and profitability analysis.
-* Applied analytical techniques to support decision-making.
+## Education & Credentials
 
----
+- **Master of Commerce (M.Com)** — University of Lucknow, 2022–2024
+- **Bachelor of Commerce (B.Com)** — University of Lucknow, 2018–2021
+- **UGC NET — Commerce Qualified**
 
-## 📜 Certifications & Job Simulations
+## Certifications & Job Simulations
 
-* Introduction to Data Analysis using MS Excel – Coursera
-* EY Audit Job Simulation – Forage
-* Goldman Sachs Risk Division Job Simulation – Forage
-* The Complete Financial Analyst Course 2025 – Udemy
-* Microsoft Power BI Desktop for Business Intelligence – Udemy
----
+- The Complete Financial Analyst Course 2025 — Udemy
+- Microsoft Power BI Desktop for Business Intelligence — Udemy
+- Introduction to Data Analysis Using MS Excel — Coursera
+- EY Audit Job Simulation — Forage
+- Goldman Sachs Risk Division Job Simulation — Forage
 
-## 🎯 Career Interests
+## Career Focus
 
-* Financial Analyst
-* Financial Data Analyst
-* Business Intelligence Analyst
-* Reporting Analyst
-* Corporate Finance Analyst
-* Financial Planning & Analysis (FP&A)
+Financial Analyst | FP&A Analyst | Financial Reporting Analyst | Finance Analyst | Financial Data Analyst
 
+Interested in applying financial analysis, reporting, modeling, and data visualization to support business decisions.
 
----
+## Connect
 
-## 🌱 Current Goal
-
-To build strong expertise in Financial Analysis, Business Intelligence, and Data Analytics while developing a portfolio of real-world projects that demonstrate practical business and financial problem-solving skills.
-
----
-
-## 📫 Connect With Me
-
-* LinkedIn: www.linkedin.com/in/simran-govil
-
-* Email: govilsimran026@gmail.com
+- LinkedIn: https://www.linkedin.com/in/simran-govil
+- GitHub: https://github.com/Simran-Govil
